@@ -5,10 +5,10 @@ import torch.nn as nn
 
 ## LPGNN model definition
 
-class LPGNN_Layer(nn.Module):
+class LLPGNN_Layer(nn.Module):
     def __init__(self):
 
-        super(LPGNN_Layer, self).__init__()
+        super(LLPGNN_Layer, self).__init__()
 
 
 
